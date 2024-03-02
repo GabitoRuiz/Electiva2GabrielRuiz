@@ -18,5 +18,5 @@ npm install
 
 3.**Inicia el servidor y prueba el proyecto con postman o insomnia**
 ```
-npm run dev( Para iniciar el servidor del proyecto)
+npm run dev
 ```

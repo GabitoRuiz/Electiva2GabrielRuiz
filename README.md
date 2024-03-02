@@ -2,7 +2,7 @@
 # Integrantes del Equipo
 - Gabriel Eduardo Ruiz Escobar(https://github.com/GabitoRuiz)
 # Tecnología en que se Desarrolló
-- <Nodejs>
+- Nodejs
 # TaskManager
 API Restful de un basico gestor de tareas
 # Como Correr el proyecto
